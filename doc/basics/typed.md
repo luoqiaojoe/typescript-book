@@ -54,18 +54,18 @@ function error(msg: string) never {
 ```javascript
 enum Color {
   Red = "red",
-  Green = "green",
-  Blue = "blue"
+  Green = "green"
 }
 
-interface IStyle {
-  color: Color
-}
-
-let style: IStyle = {
-  color: Color.Red
+const typed = document.getElementById("typed");
+if (typed) {
+  typed.style.background = Color.Red;
 }
 ```
+
+如图：
+
+![](../images/chap-02-01.png)
 
 在上述的文字中，其实你应该可以发现存在 `let` 关键字，接下来它与我想说的变量声明有非常大的关系。在以往的 JavaScript 中 `var` 是我们来定义一个变量的开始，es2015 普及之后，`let` 和 `const` 几乎就成了我们编写代码时仅选择的两个变量声明方式，虽然某些特殊的场景下，我们也会使用到 `var`。
 
