@@ -4,4 +4,6 @@
 * [前言](./preface.md)
 * 入门基础
   * [基础类型和变量声明](./basics/typed.md)
-  * [类与函数](./basics/classandfunction.md)
+  * [函数](./basics/function.md)
+  * 类
+  * 接口 
