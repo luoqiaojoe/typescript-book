@@ -83,7 +83,7 @@ declare module "url" {
 
 我们可以在工程中创建一个 `typing` 目录，编译器会自动的读取这个声明文件。
 
-但是目前看起来工程中的错误，还是没有解决，因为它是一个 `commonjs` 的模块，由于 `commonjs` 中定义了 `module.exports` 和 `exports`，根据官方给出的建议是使用 `import d = require("xxx")`，但是对于有风格洁癖的人来说，这很不好看，但是我们可以从中遵循它的规则，由于 `exports` 的关系，以及现代编译器编译的规则，假设是导出了主模块，那么我们可以使用：
+但是目前看起来工程中的错误，还是没有解决，因为它是一个 `commonjs` 的模块，由于 `commonjs` 中定义了 `module.exports` 和 `exports`，根据官方给出的建议是使用 `var d = require("xxx")`，但是对于有风格洁癖的人来说，这很不好看，但是我们可以从中遵循它的规则，由于 `exports` 的关系，以及现代编译器编译的规则，假设是导出了主模块，那么我们可以使用：
 
 ```javascript
 import g from "xx";
