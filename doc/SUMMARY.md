@@ -9,4 +9,5 @@
   * [接口](./basics/interface.md)
   * [泛型](./basics/generics.md)
   * [模块](./basics/module.md)
+  * [高级类型](./basics/advanced_types.md)
 * 高级编程
