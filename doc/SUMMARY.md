@@ -11,4 +11,4 @@
   * [模块](./basics/module.md)
   * [高级类型](./basics/advanced_types.md)
 * 高级编程和实战设计
-  * [泛型在HTTP接口实现中的运用](./advanced/generics_http.md)
+  * [泛型在HTTP接口中的运用](./advanced/generics_http.md)
