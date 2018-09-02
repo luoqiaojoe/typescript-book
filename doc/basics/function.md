@@ -44,7 +44,7 @@ const sum: Sum = function(x: number, y: number): number {
 }
 ```
 
-以往我们写 JavaScript 时调用  `sum` 函数，也许我们什么都不传，或者只传一个，但在 TypeScript 的世界中参数是必须真时存在的，我们调用时必须传递两个参数，因此我们可以使用 `可选参数` 和 `默认参数` 的方式来处理这个问题，如：
+以往我们写 JavaScript 时调用  `sum` 函数，也许我们什么都不传，或者只传一个，但在 TypeScript 的世界中参数是必须真实存在的，我们调用时必须传递两个参数，因此我们可以使用 `可选参数` 和 `默认参数` 的方式来处理这个问题，如：
 
 ```javascript
 function sum(x: number, y?: number): number {
