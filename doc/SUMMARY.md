@@ -6,5 +6,7 @@
   * [基础类型和变量声明](./basics/typed.md)
   * [函数](./basics/function.md)
   * [类](./basics/class.md)
-  * [接口](./basics/interface.md) 
+  * [接口](./basics/interface.md)
+  * [泛型](./basics/generics.md)
+  * 模块
 * 高级编程
