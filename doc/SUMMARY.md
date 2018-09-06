@@ -20,5 +20,7 @@
   * 有状态 class 组件
   * 可注入的泛型组件
   * HOC 组件
-  * 通信模型设计
+  * PureComponent 的使用
   * material-ui 高阶使用
+  * 组件通信设计方法
+  * 优雅使用 Redux
