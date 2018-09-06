@@ -14,4 +14,5 @@
   * [泛型在HTTP接口中的运用](./advanced/generics_http.md)
   * [使用类编写一个有趣的动画](./advanced/class_animation.md)
   * [优雅的使用奇技淫巧](./advanced/skill.md)
+  * [索引类型查询和索引访问](./advanced/index_types.md)
 * 实战设计
