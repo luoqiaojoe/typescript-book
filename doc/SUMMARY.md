@@ -10,6 +10,7 @@
   * [泛型](./basics/generics.md)
   * [模块](./basics/module.md)
   * [高级类型](./basics/advanced_types.md)
+  * [启用 jsx](./basics/jsx.md)
 * 高级基础
   * [泛型在HTTP接口中的运用](./advanced/generics_http.md)
   * [使用类编写一个有趣的动画](./advanced/class_animation.md)
@@ -23,4 +24,4 @@
   * PureComponent 的使用
   * material-ui 高阶使用
   * 组件通信设计方法
-  * 优雅使用 Redux
+  * 优雅的使用 Redux
