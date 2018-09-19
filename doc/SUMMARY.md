@@ -19,10 +19,10 @@
 * 实战设计
   * [无状态函数组件](./react/function_component.md)
   * [有状态类组件](./react/class_component.md)
-  * Portals组件
+  * [Portals 组件](./react/portals_component.md)
+  * PureComponent 组件
   * 可注入的泛型组件
   * HOC 组件
-  * PureComponent 的使用
   * material-ui 高阶使用
   * 组件通信设计方法
   * 优雅的使用 Redux
