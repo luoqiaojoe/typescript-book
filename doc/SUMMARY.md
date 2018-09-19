@@ -17,8 +17,8 @@
   * [优雅的使用奇技淫巧](./advanced/skill.md)
   * [索引类型查询和索引访问](./advanced/index_types.md)
 * 实战设计
-  * 无状态 function 组件
-  * 有状态 class 组件
+  * [无状态函数组件](./react/function_component.md)
+  * 有状态的类组件
   * 可注入的泛型组件
   * HOC 组件
   * PureComponent 的使用
