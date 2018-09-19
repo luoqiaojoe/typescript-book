@@ -71,7 +71,7 @@ public handleToggle(value: string) {
 }
 ```
 
-逻辑比较简单，如果传入的 `value` 存在就删除，不存在就添加到 checked 数组中。
+逻辑比较简单，如果传入的 `value` 存在就删除，不存在就添加到 checked 数组中，查看[完整范例](https://github.com/welearnmore/WLM-TypeScript-React-Component-Mode/tree/master/src/pages/ReactComponent/components/Setting) 。
 
 完整的代码如下：
 
@@ -176,6 +176,8 @@ this.divRef.current // dom 对象
 在无状态函数组件中获取 ref 的方式如上，多数情况下我们并不要直接接触到 DOM 因此 Ref 的使用也在一些比较棘手的情况下，才能选择使用。
 
 如果在一个类组件中，我们想使用 Context，最新版本的 React Context 也有了一个新的变化，Context 打破经典 React Component 数据流向的规律，但这个特性多数的库中都有运用到，因此如果我们要在组件之间去共享一段资源时，Context对于这种场景就非常的有用。
+
+[完整范例](https://github.com/welearnmore/WLM-TypeScript-React-Component-Mode/tree/master/src/pages/ReactComponent/components/Context)
 
 ```javascript
 

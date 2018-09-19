@@ -79,7 +79,7 @@ Header.contextTypes = {
 export default Header;
 ```
 
-一一对应，缺一不可。
+一一对应，缺一不可，可查看[完整范例](https://github.com/welearnmore/WLM-TypeScript-React-Component-Mode/tree/master/src/pages/ReactComponent/components/Header)
 
 ![](../images/chap-04-01.png)
 
