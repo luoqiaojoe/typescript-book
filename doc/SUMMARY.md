@@ -21,9 +21,9 @@
   * [有状态类组件](./react/class_component.md)
   * [Portals 组件](./react/portals_component.md)
   * [Fragments 组件](./react/fragments_component.md)
-  * PureComponent 组件
-  * 可注入的泛型组件
+  * [PureComponent 组件](./react/pure_component.md)
   * 高阶组件（HOC）
   * material-ui 高阶使用
   * 组件通信设计方法
   * 优雅的使用 Redux
+  * immutable
