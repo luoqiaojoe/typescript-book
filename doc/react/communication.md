@@ -515,4 +515,4 @@ export default ChildCompsC;
 
 详情可参考 [https://github.com/welearnmore/WLM-TypeScript-React-Component-Mode/tree/master/src/pages/Communication](https://github.com/welearnmore/WLM-TypeScript-React-Component-Mode/tree/master/src/pages/Communication)
 
-这些基础的通信方法在我们的开发工程中非常的有用，你应该牢记这些基础通信方法，为了更好的写 TypeScript 版的 React，你还应该对类型有一些对齐的约束，这个约束在越往后使用的过程中得到的收益才更大。
+这些基础的通信方法在我们的开发过程中非常的有用，你应该牢记这些基础通信方法，为了更好的写 TypeScript 版的 React，你还应该对类型有一些对齐的约束，这个约束在越往后使用的过程中得到的收益才更大。
