@@ -16,14 +16,16 @@
   * [使用类编写一个有趣的动画](./advanced/class_animation.md)
   * [优雅的使用奇技淫巧](./advanced/skill.md)
   * [索引类型查询和索引访问](./advanced/index_types.md)
-* 实战设计
+* TypeScript 写 React 入门基础设计
   * [无状态函数组件](./react/function_component.md)
   * [有状态类组件](./react/class_component.md)
   * [Portals 组件](./react/portals_component.md)
   * [Fragments 组件](./react/fragments_component.md)
   * [PureComponent 组件](./react/pure_component.md)
   * [高阶组件](./react/hoc_component.md)
-  * material-ui 高阶使用
-  * 组件通信设计方法
+  * [基础的组件通信](./react/communication.md)
   * 优雅的使用 Redux
+  * material-ui 高阶使用
   * immutable
+* TypeScript 写 React Native 入门基础设计（依赖 React 入门基础设计）
+  * await ...
