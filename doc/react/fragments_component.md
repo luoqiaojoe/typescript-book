@@ -6,20 +6,23 @@
 const renderLi: React.SFC = () => {
   return (
     <div>
-      <li></li>
-      <li></li>
+      <p>1</p>
+      <p>2</p>
     </div>
   )
 }
 
 public render() {
   return (
-    <ul>
+    <div>
       <renderLi />
-    </ul>
+    </div>
   )
 }
 ```
+
+- 它不是一个数组，如果是数组你可以直接 `return [].map((v) => { return (<p>{v}</p>)})` ，这没有可比性
+- 它就是有两个平级的元素需要渲染，可能这种情况会比较少见，但肯定有。
 
 如果我们有很多场景需要使用它，那么我们就会生成很多有副作用的 `div`，这明显不是我们想要的结果。那么 `React` 根据这样的情况给予了一个组件来解决这个问题，它就是 `Fragment`。
 
