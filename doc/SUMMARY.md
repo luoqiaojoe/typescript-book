@@ -24,7 +24,7 @@
   * [PureComponent 组件](./react/pure_component.md)
   * [高阶组件](./react/hoc_component.md)
   * [基础的组件通信](./react/communication.md)
-  * 优雅的使用 Redux
+  * [优雅的使用 Redux](./react/used_redux.md)
   * material-ui 高阶使用
   * immutable
 * TypeScript 写 React Native 入门基础设计（依赖 React 入门基础设计）
