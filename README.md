@@ -10,6 +10,7 @@ TypeScript 真是一个很出乎意料又强大的让人爱不释手的工具，
 - gitbook：https://welearnmore.gitbook.io/typescript-book/
 - github：https://github.com/welearnmore/typescript-book
 - 本书配套的demos：https://github.com/welearnmore/typescript-book-demos
+- 本书配套的demos：https://github.com/welearnmore/WLM-TypeScript-React-Component-Mode
 
 
 ## 作者介绍
