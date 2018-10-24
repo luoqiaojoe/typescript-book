@@ -26,6 +26,6 @@
   * [基础的组件通信](./react/communication.md)
   * [优雅的使用 Redux](./react/used_redux.md)
   * [material-ui 高阶使用](./react/material_ui.md)
-  * immutable
+  * [immutable](./react/immutable.md)
 * TypeScript-React Native 入门基础
   * await ...
