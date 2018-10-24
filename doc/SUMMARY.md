@@ -16,7 +16,7 @@
   * [使用类编写一个有趣的动画](./advanced/class_animation.md)
   * [优雅的使用奇技淫巧](./advanced/skill.md)
   * [索引类型查询和索引访问](./advanced/index_types.md)
-* TypeScript-React入门基础
+* React入门基础
   * [无状态函数组件](./react/function_component.md)
   * [有状态类组件](./react/class_component.md)
   * [Portals 组件](./react/portals_component.md)
@@ -27,5 +27,5 @@
   * [优雅的使用 Redux](./react/used_redux.md)
   * [material-ui 高阶使用](./react/material_ui.md)
   * [immutable](./react/immutable.md)
-* TypeScript-React Native 入门基础
+* React Native 入门基础
   * await ...
