@@ -56,7 +56,7 @@ const hello: string = 0;
 现代的 Web 前端工程几乎都用到了构建工具，如 `webpack`：
 
 ```bash
-npm i awesome-typescript-loade typescript source-map-loader --dev
+npm i awesome-typescript-loader typescript source-map-loader --dev
 ```
 
 使用 `tsc --init` 创建 tsconfig.json，这是整个工程内 TypeScript 编译器所依赖的配置文件：
